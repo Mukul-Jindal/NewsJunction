@@ -1,7 +1,7 @@
 # NewsJunction - React website to get latest news in India of different categories
 
 # Project Description:
-News Website which uses react and bootstrap as frontend and NewsAPI for fetching news. News can be fetched for different categories given in the navBar. For detailed news link to news article will be provided along with it 
+NewsJunction is built using React and Bootstrap as the frontend, and NewsAPI for fetching news. You can browse news articles from different categories by selecting them from the navigation bar. For each article, we provide a detailed link to the news source.
 
 # Requirements
 1. Node package manager(https://nodejs.org/en)
