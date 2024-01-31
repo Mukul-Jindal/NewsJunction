@@ -28,7 +28,7 @@ export default function News(props) {
 
   useEffect(() => {
     document.title = `${props.category} - NewsMonkey`;
-    // updateNews();
+    updateNews();
   }, []);
 
   const fetchMore = async () => {
