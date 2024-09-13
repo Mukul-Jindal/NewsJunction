@@ -73,7 +73,7 @@ News.propTypes = {
   changeProgress: PropTypes.func,
 }
 News.defaultProps = {
-  country: "in",
+  country: "us",
   pageSize: 10,
   category: "general",
 }
