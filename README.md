@@ -13,4 +13,13 @@ NewsJunction is built using React and Bootstrap as the frontend, and NewsAPI for
 3. Get your free API from NewsAPI(https://newsapi.org/)
 4. Make a file named ".env.local"
 5. Open ".env.local" and add "REACT_APP_NEWS_API = '[YOUR_API_KEY]'" and save it
-6. Now run `npm start` in the terminal and your project will start on (http://localhost:3000) 
+6. Now run `npm start` in the terminal and your project will start on (http://localhost:3000)
+
+# Screenshots
+
+<div>
+  <img src="/Screenshots/LaptopView.png?raw=true" ></img>
+  1. Desktop View
+  <img src="/Screenshots/MobileView.png?raw=true" ></img>
+  2. Mobile View
+</div>
